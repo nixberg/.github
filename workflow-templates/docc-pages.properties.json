@@ -1,0 +1,7 @@
+{
+    "name": "Puhlish Swift package documentation to Github Pages",
+    "description": "Generate documentation for your Swift package with the Swift-DocC plugin and publish to Github Pages.",
+    "categories": [
+        "Swift"
+    ]
+}
