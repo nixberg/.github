@@ -1,0 +1,7 @@
+{
+    "name": "Swift Matrix",
+    "description": "Build and test a Swift Package.",
+    "categories": [
+        "Swift"
+    ]
+}
